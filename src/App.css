@@ -1,0 +1,11 @@
+
+button.active{
+  background-color: rgb(255, 255, 255);
+  font-size: 1rem;
+  color: #222;
+  font-weight: 100;
+  cursor: pointer;
+}
+li.completed{
+  text-decoration: line-through;
+}
